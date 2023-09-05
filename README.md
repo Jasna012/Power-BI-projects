@@ -1,2 +1,3 @@
 # Power-BI-projects
-It is a dashboard project.
+It is an interactive  dashboard project to track and analyze online sales data.
+
